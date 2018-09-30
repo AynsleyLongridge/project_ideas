@@ -4,7 +4,7 @@
 
 ## Idea 1 - An app that tells you how busy bars are
 
-## Overview
+### Overview
 
 Looking for a quiet drink only to find there is a deadly que? 
 
@@ -20,21 +20,21 @@ The technicalities behind this app would be inspired by googles real time data a
 
 I want the app to be based on bars and clubs in Belfast, but has potential to be created for any city.
 
-## Pros
+### Pros
 
 + Saves money paying into a club / paying for a taxi to a place that isn’t what you expected.
 + Helpful for people visiting Belfast from different countries to see what clubs are open around them. 
 + The app can grow to include more cities.
 + Can be used as a platform for bars and clubs to advertise events / nights / promotions
 
-## Cons
+### Cons
 
 + There will need to be thorough research about the exact functionality of the app and how accurate the information about each bar / club will be.
 + If the app was to use the idea of knowing from peoples location services, I face the issue that people might not have the services enabled. Meaning you could arrive to find a place you think is quiet, packed!
 + The app will have to be regularly updated if new bars open 
 
 
-## How might it be built?
+### How might it be built?
 
 + prototypes for this app using Invision / Adobe XD. 
 + design using sketch / illustrator / after effects. 
@@ -42,7 +42,7 @@ I want the app to be based on bars and clubs in Belfast, but has potential to be
 + promotional website.
 + social media campaign.
 
-## Who’s it for?
+### Who’s it for?
 
 My target market for this idea is people that 
 
@@ -51,13 +51,13 @@ My target market for this idea is people that
 + possibly not living in the city centre area
 + visiting Belfast on a holiday 
 
-## What’s the business model?
+### What’s the business model?
 
 The app will be free to download.
 
 Bars and clubs could pay a sum of money to advertise nights / events / drinks promotions.
 
-## Related ideas for essay topics
+### Related ideas for essay topics
 
 Is google’s “clandestine” tracking a breach of our privacy
 
@@ -65,9 +65,9 @@ Is google’s “clandestine” tracking a breach of our privacy
 
 ----------------------------------------------------------------------------
 
-## Idea 2 - A language app for basic communication
+### Idea 2 - A language app for basic communication
 
-## Overview
+### Overview
 
 During my time abroad and with Spanish lessons at a language school I was throwing myself into getting caught up on grammar spelling and technical aspects of the language. 
 Majority of apps i used would start with grammar and basic words of for example animals, colours etc. 
@@ -80,17 +80,17 @@ A problem I had also was when someone would say a phrase or word I would remembe
 
 I would like this to be an app, the idea behind this being that people can learn on the go, whether its the bus journey to work, in bed at night or even in the airport before to arrive at the country. I specifically want to focus on the fact that the library of phrases will be easily assessable, for those mind blank times in a restaurant trying to ask for the bill.
 
-## Pros
+### Pros
 
 + Gives users the chance to learn basic phrases of a language to get them by when visiting a country.
 + Content will be stored on the app so users can access the information when offline
 
-## Cons 
+### Cons 
 
 + Because the nature of the app is simply to learn the basic phrases to get by, users will not gain an understanding of grammar or how to communicate further in the conversation.
 + There are already many language apps available so a lot of focus on the promotion stategy will be needed.
 
-## How might it be built?
+### How might it be built?
  
 I would like this idea to be an iOS app, I would like to focus on creating prototypes using Invision and Adobe XD. 
 
@@ -99,12 +99,12 @@ To make the app engaging I want create illustrations and animations to aid learn
 I would like to also create a promotional video and website to boost 
 
 
-## Who’s it for?
+### Who’s it for?
 
 This application will be for people who are travelling to countries that speak a different language. I plan to create an easy to follow interface so the app can be used by people of all ages to are keen to learn the basics of a language. 
 
 People that rely on their phones as a source of information and are regularly on their phones 
 
-## What’s the business model?
+### What’s the business model?
 
 The application will be free to download, however an option would be that the app will show advertisements. Users can upgrade to a pro version where they can see the content ad free.
