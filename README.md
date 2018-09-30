@@ -58,5 +58,5 @@ The app will be free to download.
 Bars and clubs could pay a sum of money to advertise nights / events / drinks promotions.
 
 ## Related ideas for essay topics
-——————————————-
+
 Is google’s “clandestine” tracking a breach of our privacy
