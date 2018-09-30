@@ -120,6 +120,10 @@ The application will be free to download, however an option would be that the ap
 
 ### Overview
 
+A game designed to develop your drunken state. 
+
+A social game created to spice up your pre-drinks or time in a bar! 
+
 ### Pros
 
 + Played with a group of people, users names are entered into the system to engage all players.
