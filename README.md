@@ -108,3 +108,37 @@ People that rely on their phones as a source of information and are regularly on
 ### What’s the business model?
 
 The application will be free to download, however an option would be that the app will show advertisements. Users can upgrade to a pro version where they can see the content ad free.
+
+
+
+
+
+
+----------------------------------------------------------------------------
+
+### Idea 3 - Drinking game app
+
+### Overview
+
+### Pros
+
++ Played with a group of people, users names are entered into the system to engage all players.
++ Easy to follow with little rules so all the concentration can be on the drinking and having fun.
+
+### Cons 
+
++ I have never used swift before so I may find it difficult to create the game how I imagine it
++ I would have to create a database of some sort to enter the players names into. This is something I haven’t worked with before so would need to learn about that also.
++ The app will be reinforcing the consumption of alcohol, there will have to be initial warnings about drinking responsibly.
+
+### How might it be built?
+
+This app would be created for iOS with swift. This is something I am not familiar with so I could need to learn that. I would create prototypes using Invision / Adobe XD. Illustrations and animations for this project will be created using illustrator and after effects 
+
+### Who is it for 
+
+This app is for anyone over the age of 18. It is targeted specifically at 18-30 year olds who could often socialise with alcohol.
+
+### What is the buisness model?
+
+The app will be free to download for the basic level of the game, however there will be in app purchases that unlock further levels.
