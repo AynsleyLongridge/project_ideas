@@ -89,3 +89,22 @@ I would like this to be an app, the idea behind this being that people can learn
 
 + Because the nature of the app is simply to learn the basic phrases to get by, users will not gain an understanding of grammar or how to communicate further in the conversation.
 + There are already many language apps available so a lot of focus on the promotion stategy will be needed.
+
+## How might it be built?
+ 
+I would like this idea to be an iOS app, I would like to focus on creating prototypes using Invision and Adobe XD. 
+
+To make the app engaging I want create illustrations and animations to aid learning and remembering the phrases.
+
+I would like to also create a promotional video and website to boost 
+
+
+## Who’s it for?
+
+This application will be for people who are travelling to countries that speak a different language. I plan to create an easy to follow interface so the app can be used by people of all ages to are keen to learn the basics of a language. 
+
+People that rely on their phones as a source of information and are regularly on their phones 
+
+## What’s the business model?
+
+The application will be free to download, however an option would be that the app will show advertisements. Users can upgrade to a pro version where they can see the content ad free.
