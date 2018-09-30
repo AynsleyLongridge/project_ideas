@@ -60,3 +60,32 @@ Bars and clubs could pay a sum of money to advertise nights / events / drinks pr
 ## Related ideas for essay topics
 
 Is google’s “clandestine” tracking a breach of our privacy
+
+
+
+----------------------------------------------------------------------------
+
+## Idea 2 - A language app for basic communication
+
+## Overview
+
+During my time abroad and with Spanish lessons at a language school I was throwing myself into getting caught up on grammar spelling and technical aspects of the language. 
+Majority of apps i used would start with grammar and basic words of for example animals, colours etc. 
+ 
+I want to create an app targeting specifically travellers and holiday goers that cannot commit to learning the whole language but want to be able to communicate the basics with confidence. 
+
+The goals of the app will be to guide users through a series of phrases and questions that will be basics to get them by in a country. This will be aided by voice recordings of pronunciation. When the user has completed the guide all the information easy assessable in the app so they can go back to revise or use as reference at any time. 
+
+A problem I had also was when someone would say a phrase or word I would remember that I had seen it before in an app but I couldn’t remember what it meant or easily go back to revisit it. 
+
+I would like this to be an app, the idea behind this being that people can learn on the go, whether its the bus journey to work, in bed at night or even in the airport before to arrive at the country. I specifically want to focus on the fact that the library of phrases will be easily assessable, for those mind blank times in a restaurant trying to ask for the bill.
+
+## Pros
+
++ Gives users the chance to learn basic phrases of a language to get them by when visiting a country.
++ Content will be stored on the app so users can access the information when offline
+
+## Cons 
+
++ Because the nature of the app is simply to learn the basic phrases to get by, users will not gain an understanding of grammar or how to communicate further in the conversation.
++ There are already many language apps available so a lot of focus on the promotion stategy will be needed.
