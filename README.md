@@ -76,8 +76,6 @@ I want to create an app targeting specifically travellers and holiday goers that
 
 The goals of the app will be to guide users through a series of phrases and questions that will be basics to get them by in a country. This will be aided by voice recordings of pronunciation. When the user has completed the guide all the information easy assessable in the app so they can go back to revise or use as reference at any time. 
 
-A problem I had also was when someone would say a phrase or word I would remember that I had seen it before in an app but I couldn’t remember what it meant or easily go back to revisit it. 
-
 I would like this to be an app, the idea behind this being that people can learn on the go, whether its the bus journey to work, in bed at night or even in the airport before to arrive at the country. I specifically want to focus on the fact that the library of phrases will be easily assessable, for those mind blank times in a restaurant trying to ask for the bill.
 
 ### Pros
